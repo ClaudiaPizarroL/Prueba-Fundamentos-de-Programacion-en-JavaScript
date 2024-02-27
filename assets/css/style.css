@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#searchForm {
+    padding-left: 35%;
+}
+
+#heroId {
+    width: 20rem;
+}
+
+#heroInfo {
+    font-size: small;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
